@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(36, 33, 68);
+    color: antiquewhite;
+    height: 100vh; 
+}
+
+img{
+    max-width: 100%;  
+    width: 300px;
+    cursor: pointer;
+}
+
+.with-border {
+    border: 2px solid red;
+
+}
